@@ -16,19 +16,17 @@ This application is created using React and some simple CSS styling. It allows u
 
 - [Built Using](#built-using)
 - [Deployed Application](#deployed-application)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Screenshot](#screenshot)
-- [Credits](#credits)
-- [License](#license)
 - [Questions](#questions)
 - [Socials](#socials)
 
 ## Built Using
 
-![html shield](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![React logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Netflify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## Deployed Application
+
+https://share-the-bill.netlify.app/
 
 ## Usage
 
@@ -39,10 +37,6 @@ This application is created using React and some simple CSS styling. It allows u
 ![demo 2](./public/images/home3.png)
 
 ![demo 2](./public/images/home4.png)
-
-## Questions
-
-GitHub: [samocain93](https://github.com/samocain93)
 
 ## Socials
 
